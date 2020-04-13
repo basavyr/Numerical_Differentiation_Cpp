@@ -11,6 +11,7 @@ public:
     static double Trigonometric(double x);
     static double Exponential(double x);
     static double Polynomial(double x);
+    static double VRotor(double q);
 };
 
 #endif // FUNCTIONS_HH
